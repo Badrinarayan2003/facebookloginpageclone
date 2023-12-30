@@ -113,6 +113,7 @@ a:hover{
     border-radius: 2px;
     margin-left: 3px;
     background-color: rgb(244, 243, 243);
+    cursor: pointer;
 }
 
 .sub-foot{
